@@ -22,7 +22,10 @@
  
  -Este programa consiste en el algoritmo de euclides. Este se basa en hallar el mcd de 2 numeros que en este caso seran a y b.
  
- 
+-Ya ingresado “a” y “b”, si b=0 el código retornará “a”, x=0 y y=1, ya que “x” y “y” multiplicados y sumado (ax+by=mcd(a,b))será
+la combinación lineal de MCD. De lo contrario retornará la misma función con valores distintos, en el lugar de “b” tomará el lugar
+de “a” y “b” será (a%b), todo hasta que b=0. Luego comienza el algoritmo para hallar “x” y “y” donde “x” se convertirá en “y” y “y” se
+convertirá en (x - y *(a / b)), esto se repetirá hasta salir del último return que nos dará los valores de MCD,” x” y ” y”. 
  
  -Este progama se encargara de hallar el mcd de ambos numeros y aparte tambien sus ecuaciones diofanticas, 
  de esta manera hallaremos los valores de "x" y "y" respctivamente y luego imprimirlas en patanlla.
