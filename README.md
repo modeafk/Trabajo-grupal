@@ -2,9 +2,9 @@
 
 **Integrantes**
 
--Marcelo Torres  Acuña
+-Cesar Marcelo Acuña Peralta
 
--Berly
+-Jhon Berly Taype Alccaccahua
 
 -Brian Bermudez Navarro
 
