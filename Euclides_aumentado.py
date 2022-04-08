@@ -10,8 +10,8 @@ def e_euclides(a,b):
     y = x1 - y1 * int(a / b)
     return d,x,y
 
-a=int(input("ingrse el valor de 'a': "))
-b=int(input("ingrse el valor de 'b': "))
+a=int(input("ingrese el valor de 'a': "))
+b=int(input("ingrese el valor de 'b': "))
 print("\n")
 mcd,x,y=e_euclides(a,b)
 
