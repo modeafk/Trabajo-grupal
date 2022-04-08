@@ -4,7 +4,7 @@
 
 -Marcelo Torres Acuña
 
--Jhon Berly Taype Alccaccahua de Eileen (Taquito)
+-Jhon Berly Taype Alccaccahua 
 
 
 -Brian Bermudez Navarro
