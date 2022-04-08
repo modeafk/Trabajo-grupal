@@ -41,5 +41,6 @@ INSTRUCCIONES:
 -El programa se encargara de botar los resultados en pantalla tanto el mcd como los valores respectivos de "x" y "y"
  
  
+![image](https://user-images.githubusercontent.com/101947482/162352821-c8164f0f-0cc6-4253-9516-79360b465d9d.png)
 
 
