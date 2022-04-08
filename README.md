@@ -4,7 +4,7 @@
 
 -Cesar Marcelo Acuña Peralta
 
--Jhon Berly Taype Alccaccahua de ailen
+-Jhon Berly Taype Alccaccahua de Eileen (Taquito)
 
 
 -Brian Bermudez Navarro
