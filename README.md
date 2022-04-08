@@ -2,7 +2,7 @@
 
 **Integrantes**
 
--Cesar Marcelo Acuña Peralta
+-Marcelo Torres Acuña
 
 -Jhon Berly Taype Alccaccahua de Eileen (Taquito)
 
