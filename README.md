@@ -10,7 +10,7 @@
 
 ------------
 
-**Tiempo computacional del algoritmo de Euclides**
+#### **Tiempo computacional del algoritmo de Euclides**
 
 Teniendo en cuenta el teorema de Lamé, el cual afirma que:
 
