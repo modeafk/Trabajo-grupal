@@ -4,7 +4,8 @@
 
 -Cesar Marcelo Acuña Peralta
 
--Jhon Berly Taype Alccaccahua
+-Jhon Berly Taype Alccaccahua de ailen
+
 
 -Brian Bermudez Navarro
 
