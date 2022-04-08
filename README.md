@@ -1,11 +1,12 @@
 ##ALGEBRA ABSTRACTA
+
 **Integrantes**
+
 -Marcelo
 -Berly
 -Brian Bermudez Navarro
 
 ------------
-
 
 **Tiempo computacional del algoritmo de Euclides**
 Teniendo en cuenta el teorema de Lamé, el cual afirma que:
