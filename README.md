@@ -2,7 +2,7 @@
 
 **Integrantes**
 
--Marcelo
+-Marcelo Torres  Acuña
 
 -Berly
 
